@@ -14,16 +14,24 @@ I am an about to graduate PhD student from [the Robotics Institute](https://www.
 
 Selected research outcomes
 ======
-Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction (Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja) [Paper](https://ieeexplore.ieee.org/abstract/document/8968326)  
-<img width="800" src='/images/Skeleton.png'>  
-<iframe width="80" height = "50"  src="https://www.youtube.com/watch?v=4T85RcNuijQ " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+**Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
+Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja <br />
+Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) here.
+<img width="800" src='/images/skeleton.png'>
+<iframe width="80" height = "50"  src="https://www.youtube.com/watch?v=4T85RcNuijQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 --- 
-Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces (Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja) [Paper](https://arxiv.org/pdf/2010.11487.pdf)  
-<img width="800" src='/images/LogGPIS.JPG'>  
-<iframe width="80" height = "50"   src="https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+
+**Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
+Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja <br />
+Please find our [Paper](https://arxiv.org/pdf/2010.11487.pdf) here. 
+<img width="800" src='/images/LogGPIS.JPG'>
+<iframe width="80" height = "50"   src="https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ---  
-Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning (Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja) [Paper](https://arxiv.org/pdf/2206.09506.pdf)  
-<img width="800" src='/images/LogGPISMop.JPG'>  
+**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
+Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
+Please find our [Paper](https://arxiv.org/pdf/2206.09506.pdf) here.
+<img width="800" src='/images/LogGPISMop.JPG'>
 
 
 
