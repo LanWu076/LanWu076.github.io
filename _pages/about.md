@@ -24,17 +24,19 @@ Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) h
 **Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
 Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://arxiv.org/pdf/2010.11487.pdf) here. 
-<img width="800" src='/images/LogGPIS.JPG'>
+<img width="800" src='/images/LogGPIS.png'>
 <iframe width="80" height = "50"   src="https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---  
 **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
 Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://arxiv.org/pdf/2206.09506.pdf) here.
-<img width="800" src='/images/LogGPISMop.JPG'>
+<img width="800" src='/images/LogGPISMop.png'>
 
 
 
 Contact
 ------
-Please contact me at email address: Lan.Wu-1@student.edu.au iriswu076@gmail.com
+Please contact me at email address: <br />
+Lan.Wu-1@student.edu.au <br />
+iriswu076@gmail.com
