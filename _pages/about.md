@@ -14,21 +14,24 @@ I am an about to graduate PhD student from [the Robotics Institute](https://www.
 
 Selected research outcomes
 ======
-**Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
+**1.Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
+IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1532–1539, 2020 <br />
 Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) and [video](https://www.youtube.com/watch?v=4T85RcNuijQ).
 <img width="800" src='/images/skeleton.png'>
-<img src="https://github.com/LanWu076/LanWu076.github.io/blob/master/images/jenolan.gif" width="140" height="140" />
+<img src="https://github.com/LanWu076/LanWu076.github.io/blob/master/images/jenolan.gif" width="400" />
 ![Our reconstruction on the Jenolan Cave](https://github.com/LanWu076/LanWu076.github.io/blob/master/images/jenolan.gif)
+![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
 --- 
 
-**Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
+**2.Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
+IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 2461–2468, 2021 <br />
 Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://arxiv.org/pdf/2010.11487.pdf) and [video](https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s). 
 <img width="800" src='/images/LogGPIS.png'>
 ---  
 
-**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
+**3.Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
 Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://arxiv.org/pdf/2206.09506.pdf) here.
 <img width="800" src='/images/LogGPISMop.png'>
