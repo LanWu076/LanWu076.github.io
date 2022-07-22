@@ -18,6 +18,7 @@ Selected research outcomes
 Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) here.
 <img width="800" src='/images/skeleton.png'>
+![grab-landing-page](https://github.com/LanWu076/LanWu076.github.io/tree/master/images/jenolan.gif)
 <iframe width="80" height = "50"  src="https://www.youtube.com/watch?v=4T85RcNuijQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 --- 
 
@@ -37,6 +38,6 @@ Please find our [Paper](https://arxiv.org/pdf/2206.09506.pdf) here.
 
 Contact
 ------
-Please contact me at email address: <br />
+Please contact me: <br />
 Lan.Wu-1@student.edu.au <br />
 iriswu076@gmail.com
