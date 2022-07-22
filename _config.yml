@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lan Wu"
   avatar           : "LanWu.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Mapping, Perception, SLAM"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  email            : "iriswu076@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=6KPf4R0AAAAJ&hl=en&oi=sra"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Lan-Wu-31"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/LanWu076"
+  github           : "LanWu076"
   google_plus      :
   keybase          :
   instagram        :
