@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am an about to graduate PhD student from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), [School of Mechanical and Mechatronic Engineering](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/mechanical-and-mechatronic-engineering), [University of Technology Sydney](https://www.uts.edu.au/). My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled ``Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
+I am an about to graduate PhD student from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled ``Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
 
 Selected research outcomes
 ======
