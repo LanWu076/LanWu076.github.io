@@ -16,20 +16,18 @@ Selected research outcomes
 ======
 **Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
 Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja <br />
-Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) here.
+Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) and [video](https://www.youtube.com/watch?v=4T85RcNuijQ).
 <img width="800" src='/images/skeleton.png'>
-<img src="https://github.com/LanWu076/LanWu076.github.io/tree/master/images/jenolan.gif" width="140" height="140" />
-![Jenolan](https://github.com/LanWu076/LanWu076.github.io/tree/master/images/jenolan.gif)
-#<iframe width="80" height = "50"  src="https://www.youtube.com/watch?v=4T85RcNuijQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<img src="https://github.com/LanWu076/LanWu076.github.io/blob/master/images/jenolan.gif" width="140" height="140" />
+![Our reconstruction on the Jenolan Cave](https://github.com/LanWu076/LanWu076.github.io/blob/master/images/jenolan.gif)
 --- 
 
 **Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
 Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja <br />
-Please find our [Paper](https://arxiv.org/pdf/2010.11487.pdf) here. 
+Please find our [Paper](https://arxiv.org/pdf/2010.11487.pdf) and [video](https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s). 
 <img width="800" src='/images/LogGPIS.png'>
-#<iframe width="80" height = "50"   src="https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ---  
+
 **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
 Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://arxiv.org/pdf/2206.09506.pdf) here.
@@ -40,5 +38,5 @@ Please find our [Paper](https://arxiv.org/pdf/2206.09506.pdf) here.
 Contact
 ------
 Please contact me: <br />
-Lan.Wu-1@student.edu.au <br />
+Lan.Wu-1@student.uts.edu.au <br />
 iriswu076@gmail.com
