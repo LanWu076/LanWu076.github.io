@@ -18,15 +18,16 @@ Selected research outcomes
 Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://ieeexplore.ieee.org/abstract/document/8968326) here.
 <img width="800" src='/images/skeleton.png'>
-![grab-landing-page](https://github.com/LanWu076/LanWu076.github.io/tree/master/images/jenolan.gif)
-<iframe width="80" height = "50"  src="https://www.youtube.com/watch?v=4T85RcNuijQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<img src="https://github.com/LanWu076/LanWu076.github.io/tree/master/images/jenolan.gif" width="140" height="140" />
+![Jenolan](https://github.com/LanWu076/LanWu076.github.io/tree/master/images/jenolan.gif)
+#<iframe width="80" height = "50"  src="https://www.youtube.com/watch?v=4T85RcNuijQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 --- 
 
 **Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
 Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja <br />
 Please find our [Paper](https://arxiv.org/pdf/2010.11487.pdf) here. 
 <img width="800" src='/images/LogGPIS.png'>
-<iframe width="80" height = "50"   src="https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#<iframe width="80" height = "50"   src="https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---  
 **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
