@@ -28,7 +28,7 @@ Please find our [paper](https://arxiv.org/pdf/2010.11487.pdf) and [video](https:
 
 * **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
 Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
-Please find our [paper](https://arxiv.org/pdf/2206.09506.pdf) here.
+Please find our paper here: [https://arxiv.org/pdf/2206.09506.pdf](https://arxiv.org/pdf/2206.09506.pdf)
 <img width="800" src='/images/LogGPISMop.png'>
 
 Selected robotic projects (2019-2022)
