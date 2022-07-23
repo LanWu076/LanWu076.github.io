@@ -43,7 +43,7 @@ I also contributed to the next generation of fast-wheeled robot. During my studi
 <img width="800" src='/images/forv.png'>
 
 * **Surface reconstruction for non-rigid livestock and rigid carcass** <br />
-I had my precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train in the Power House Museum. The datasets were collected by LiDAR sensor and RGB-D camera along with IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored the point cloud of the full train using registered RGB images for LiDAR measurements.
+I had my precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train in the Power House Museum. The datasets were collected by LiDAR sensor and RGB-D camera along with IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
 <img width="800" src='/images/train.png'>
 
 Selected previous projects (2012-2019)
@@ -53,7 +53,7 @@ Before I pursue my PhD career, I have seven years of working experience as elect
 <img width="800" src='/images/sensor1.png'>
 * **Directional sensor using accelerometers and gyroscopes for underground Measurement-While-Drilling** <br />
 <img width="800" src='/images/sensor2.png'>
-* **Other commercialised products** <br />
+* **Other commercialised products and sensors** <br />
 <img width="800" src='/images/sensor3.png'>
 
 Contact
