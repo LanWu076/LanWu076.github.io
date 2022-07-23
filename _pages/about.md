@@ -32,10 +32,22 @@ Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
 Please find our [paper](https://arxiv.org/pdf/2206.09506.pdf) here.
 <img width="800" src='/images/LogGPISMop.png'>
 
-Selected project outcomes
+Selected robotic project outcomes
 ======
+* **Surface reconstruction for non-rigid livestock and rigid carcass** <br />
+I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches developed during my PhD, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
+<img width="800" src='/images/OTE.png'>
 
+* **Multi-Sensor Perception, Calibration and Synchronisation** <br />
+I also contributed to the next generation of fast-wheeled robot. During my studies, UTS built FORV, a Fast Off-Road Vehicle for Defence Applications and I was responsible for establishing the multi-sensor fusion platform for mapping and navigation. Calibrating and working across several visual sensors including binocular camera, LiDAR and inertial measurement unit, we managed to have a data collection and synchronisation system based on NVIDIA Jetson and ROS.
+<img width="800" src='/images/forv.png'>
 
+* **Surface reconstruction for non-rigid livestock and rigid carcass** <br />
+I had my precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train in the Power House Museum. The datasets were collected by LiDAR sensor and RGB-D camera along with IMU sensor. We operated the depth sensor around the train to have high-quality depth and RGB images and then utilise various SLAM and fusion frameworks to produce an accurate surface of the train. Moreover, I generated the colored the point cloud of the full train using registered RGB images for LiDAR measurements.
+<img width="800" src='/images/train.png'>
+
+Selected previous project outcomes
+======
 
 
 Contact
