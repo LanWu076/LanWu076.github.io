@@ -48,7 +48,7 @@ I had my precious opportunity to work with my colleagues to reconstruct the digi
 
 Selected previous projects (2012-2019)
 ======
-Before I pursue my PhD career, I have seven years of working experience as electronic engineer in a technology company, responsible for hardware and firmware designs for embedded systems. <br />
+Before I pursue my PhD career, I have seven years of working experience as electronic engineer, responsible for hardware and firmware designs for embedded systems. <br />
 * **Directional sensor using accelerometers and magnetometers for underground Measurement-While-Drilling** <br />
 <img width="800" src='/images/sensor1.png'>
 * **Directional sensor using accelerometers and gyroscopes for underground Measurement-While-Drilling** <br />
