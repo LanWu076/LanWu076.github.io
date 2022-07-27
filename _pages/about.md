@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am an about to graduate PhD student from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled ``Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems. Please find my [CV](https://drive.google.com/file/d/1Sk612h3ivHuzZEO6xKptZs5sagWk4PzV/view?usp=sharing) here.
+I am an about to graduate PhD student from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled "Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems. Please find my [CV](https://drive.google.com/file/d/1NMEsYmvt-cNQVkcmlBa1QDlzL_2TLWO9/view?usp=sharing) here.
 
 Selected research outcomes (2019-2022)
 ======
@@ -33,26 +33,26 @@ Please find our paper here: [https://arxiv.org/pdf/2206.09506.pdf](https://arxiv
 
 Selected robotic projects (2019-2022)
 ======
-* **Surface reconstruction for non-rigid livestock and rigid carcass** <br />
+* **Surface Reconstruction for the Meat and Livestock Project** <br />
 I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches developed during my PhD, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
 <img width="800" src='/images/OTE.png'>
 
-* **Multi-Sensor Perception, Calibration and Synchronisation** <br />
-I also contributed to the next generation of fast-wheeled robot. During my studies, UTS built FORV, a Fast Off-Road Vehicle for Defence Applications and I was responsible for establishing the multi-sensor fusion platform for mapping and navigation. Calibrating and working across several visual sensors including binocular camera, LiDAR and inertial measurement unit, we managed to have a data collection and synchronisation system based on NVIDIA Jetson and ROS.
+* **Multi-sensor Perception, Calibration and Synchronisation for a Fast Off-road Vehicle** <br />
+I also contributed to UTS' next generation of fast-wheeled robots. During my studies, UTS built FORV, a Fast Off-Road Vehicle for Defence Applications and I was responsible for establishing the multi-sensor fusion platform for mapping and navigation. Calibrating and working across several visual sensors including a binocular camera, a 3D LiDAR and an inertial measurement unit, we managed to have a data collection and synchronisation system based on NVIDIA Jetson and ROS.
 <img width="800" src='/images/forv.png'>
 
-* **Surface reconstruction for non-rigid livestock and rigid carcass** <br />
-I had my precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
+* **Simultaneous Localisation and Mapping for Locomotive No.1** <br />
+I had a precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with an IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
 <img width="800" src='/images/train.png'>
 
 Selected previous projects (2012-2019)
 ======
 Before I pursue my PhD career, I have seven years of working experience as electronic engineer, responsible for hardware and firmware designs for embedded systems. <br />
-* **Directional sensor using accelerometers and magnetometers for underground Measurement-While-Drilling** <br />
+* **Directional Sensor Using Accelerometers and Magnetometers for Underground Measurement-While-Drilling** <br />
 <img width="800" src='/images/sensor1.png'>
-* **North Seeking Gyro using accelerometers and gyroscopes for underground Measurement-While-Drilling** <br />
+* **North Seeking Gyro Using Accelerometers and Gyroscopes for Underground Measurement-While-Drilling** <br />
 <img width="800" src='/images/sensor2.png'>
-* **Other commercialised products and sensors** <br />
+* **Other Commercialised Products and Sensors** <br />
 <img width="800" src='/images/sensor3.png'>
 
 Contact
