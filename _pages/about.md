@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am an about to graduate PhD student from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled "Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
+I am a postdoctoral research fellow from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled "Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
 
-Selected research outcomes (2019-2022)
+Selected research outcomes (2020-2022)
 ======
 * **Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
 IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1532–1539, 2020 <br />
@@ -27,11 +27,12 @@ Please find our [paper](https://arxiv.org/pdf/2010.11487.pdf) and [video](https:
 <img width="800" src='/images/LogGPIS.png'>
 
 * **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
+IEEE Transactions on Robotics, vol. 39, pp. 4078-4094, October 2023
 Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
-Please find our paper here: [https://arxiv.org/pdf/2206.09506.pdf](https://arxiv.org/pdf/2206.09506.pdf)
+Please find our paper here: [paper](https://arxiv.org/pdf/2206.09506.pdf) and [video](https://www.youtube.com/watch?v=rKdH5Hjkdec)
 <img width="800" src='/images/LogGPISMop.png'>
 
-Selected robotic projects (2019-2022)
+Selected robotic projects (2020-2022)
 ======
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
 I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches developed during my PhD, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
@@ -58,5 +59,4 @@ Before I pursue my PhD career, I have seven years of working experience as elect
 Contact
 ------
 Please contact me: <br />
-Lan.Wu-1@student.uts.edu.au <br />
 iriswu076@gmail.com
