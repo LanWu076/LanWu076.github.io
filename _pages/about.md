@@ -46,15 +46,15 @@ I also contributed to UTS' next generation of fast-wheeled robots. During my stu
 I had a precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with an IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
 <img width="800" src='/images/train.png'>
 
-Selected previous projects (2012-2019)
-======
-Before I pursue my PhD career, I have seven years of working experience as electronic engineer, responsible for hardware and firmware designs for embedded systems. <br />
-* **Directional Sensor Using Accelerometers and Magnetometers for Underground Measurement-While-Drilling** <br />
-<img width="800" src='/images/sensor1.png'>
-* **North Seeking Gyro Using Accelerometers and Gyroscopes for Underground Measurement-While-Drilling** <br />
-<img width="800" src='/images/sensor2.png'>
-* **Other Commercialised Products and Sensors** <br />
-<img width="800" src='/images/sensor3.png'>
+#Selected previous projects (2012-2019)
+#======
+#Before I pursue my PhD career, I have seven years of working experience as electronic engineer, responsible for hardware and firmware designs for embedded systems for oil drilling industry. <br />
+#* **Directional Sensor Using Accelerometers and Magnetometers for Underground Measurement-While-Drilling** <br />
+#<img width="800" src='/images/sensor1.png'>
+#* **North Seeking Gyro Using Accelerometers and Gyroscopes for Underground Measurement-While-Drilling** <br />
+#<img width="800" src='/images/sensor2.png'>
+#* **Other Commercialised Products and Sensors** <br />
+#<img width="800" src='/images/sensor3.png'>
 
 Contact
 ------
