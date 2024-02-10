@@ -48,7 +48,7 @@ I had a precious opportunity to work with my colleagues to reconstruct the digit
 
 Selected previous projects (2012-2019)
 ======
-Before I pursue my PhD career, I have seven years of working experience as electronic engineer, responsible for hardware and firmware designs for embedded systems for oil drilling industry. <br />
+Before I pursue my PhD career, I have seven years of working experience as electronic engineer, responsible for hardware and firmware designs for embedded systems for oil drilling industry <br />
 * **Directional Sensor Using Accelerometers and Magnetometers for Underground Measurement-While-Drilling** <br />
 <img width="800" src='/images/sensor1.png'>
 * **North Seeking Gyro Using Accelerometers and Gyroscopes for Underground Measurement-While-Drilling** <br />
