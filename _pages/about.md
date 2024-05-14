@@ -12,7 +12,7 @@ About me
 ======
 I am a postdoctoral research fellow from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled "Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
 
-** I'm thrilled to announce that the program committee has decided to accept me as a member of the 30-strong cohort of the RSS Pioneers Workshop 2024. Looking forward to seeing you all in Delft, Netherlands, July 2024! **
+**I'm thrilled to announce that the program committee has decided to accept me as a member of the 30-strong cohort of the RSS Pioneers Workshop 2024. Looking forward to seeing you all in Delft, Netherlands, July 2024!**
 
 Selected key research outcomes (2020-2024)
 ======
