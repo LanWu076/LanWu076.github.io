@@ -22,8 +22,8 @@ Please find our paper and code here: [paper and code](https://uts-ri.github.io/I
 <img width="800" src='/images/IDMP.png'>
 
 * **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
-IEEE Transactions on Robotics, vol. 39, pp. 4078-4094, October 2023
-Lan Wu, Ki Myung Brian Lee and Teresa Vidal-Calleja <br />
+IEEE Transactions on Robotics, vol. 39, pp. 4078-4094, October 2023 <br />
+Lan Wu, Ki Myung Brian Lee, Cedric Le Gentil and Teresa Vidal-Calleja <br />
 Please find our paper here: [paper](https://arxiv.org/pdf/2206.09506.pdf) and [video](https://www.youtube.com/watch?v=rKdH5Hjkdec)
 <img width="800" src='/images/LogGPISMop.png'>
 
@@ -35,7 +35,7 @@ Please find our [paper](https://arxiv.org/pdf/2010.11487.pdf) and [video](https:
 
 * **Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
 IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1532–1539, 2020 <br />
-Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, and Teresa Vidal-Calleja <br />
+Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni and Teresa Vidal-Calleja <br />
 Please find our [paper](https://ieeexplore.ieee.org/abstract/document/8968326) and [video](https://www.youtube.com/watch?v=4T85RcNuijQ).
 <img width="800" src='/images/skeleton.png'>
 
