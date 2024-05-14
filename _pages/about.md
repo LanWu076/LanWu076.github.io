@@ -12,10 +12,10 @@ About me
 ======
 I am a postdoctoral research fellow from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled "Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
 
-Selected research outcomes (2020-2022)
+Selected research outcomes (2020-2024)
 ======
 * **IDMP - Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration** <br />
-Under view of IEEE Robotics and Automation Letters <br />
+Under view of IEEE Robotics and Automation Letters 2024 <br />
 Usama Ali\*, Lan Wu\*, Adrian Muller, Fouad Sukkar, Tobias Kaupp and Teresa Vidal-Calleja <br />
 \* These authors are co-first authors and contributed equally to this work.  <br />
 Please find our paper and code here: [paper and code](https://uts-ri.github.io/IDMP).
