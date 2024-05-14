@@ -15,9 +15,9 @@ I am a postdoctoral research fellow from [the Robotics Institute](https://www.ut
 Selected research outcomes (2020-2022)
 ======
 * **IDMP - Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration** <br />
-Under view of IEEE Robotics and Automation Letters
-Usama Ali*, Lan Wu*, Adrian Muller, Fouad Sukkar, Tobias Kaupp and Teresa Vidal-Calleja <br />
-These authors are co-first authors and contributed equally to this work.  <br />
+Under view of IEEE Robotics and Automation Letters <br />
+Usama Ali\*, Lan Wu\*, Adrian Muller, Fouad Sukkar, Tobias Kaupp and Teresa Vidal-Calleja <br />
+\* These authors are co-first authors and contributed equally to this work.  <br />
 Please find our paper and code here: [paper and code](https://uts-ri.github.io/IDMP).
 <img width="800" src='/images/IDMP.png'>
 
