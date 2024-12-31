@@ -10,7 +10,9 @@ redirect_from:
 
 About me
 ======
-I am a postdoctoral research fellow from [the Robotics Institute](https://www.uts.edu.au/research/robotics-institute), School of Mechanical and Mechatronic Engineering, University of Technology Sydney. My principal supervisor is [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and co-supervisor is [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). My thesis is entitled "Probabilistic Implicit Surfaces for Localisation, Mapping and Planning". My research focus is on probabilistic perception with depth sensors to perform efficient and effective mapping, accurate localisation and optimisation-based path planning for robotic systems.
+I received my PhD degree in robotics from the Robotics Institute (RI) at the University of Technology Sydney (UTS) under the supervision of [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Before my PhD, I gained extensive experience in the industry as an electronic engineer, mechatronic engineer and project leader, contributing to the development of numerous commercialised products. Since completing my PhD, I have been working as a Postdoctoral Research Fellow at RI, UTS.
+
+My research focuses on robotics perception, alternative sensing, efficient and effective mapping, robotics autonomy, and automatic navigation and manipulation, with applications in advanced manufacturing, meat and livestock production, and bionic visual-spatial medical devices for the blind.
 
 **I'm thrilled to announce that the program committee has decided to accept me as a member of the 30-strong cohort of the RSS Pioneers Workshop 2024.** <br />
 **Looking forward to seeing you all in Delft, Netherlands, July 2024!** <br />
@@ -18,7 +20,7 @@ I am a postdoctoral research fellow from [the Robotics Institute](https://www.ut
 Selected key research outcomes (2020-2024)
 ======
 * **IDMP - Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration** <br />
-Under view of IEEE Robotics and Automation Letters 2024 <br />
+IEEE Robotics and Automation Letters 2024 <br />
 Usama Ali\*, Lan Wu\*, Adrian Muller, Fouad Sukkar, Tobias Kaupp and Teresa Vidal-Calleja <br />
 \* These authors are co-first authors and contributed equally to this work.  <br />
 Please find our paper and code here: [paper and code](https://uts-ri.github.io/IDMP).
