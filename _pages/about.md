@@ -146,5 +146,5 @@ Contact
 
 **iriswu076@gmail.com**
 
-**If you’d like to join my group as a PhD, Master by Research student, CSC scholar, or intern, feel free to email your CV and a short statement of your research interests :)**
+**If you’d like to join my group as a PhD, Master by Research student, CSC scholar, or intern, feel free to email your CV :)**
 
