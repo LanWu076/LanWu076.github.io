@@ -10,13 +10,16 @@ redirect_from:
 
 About me
 ======
-I am an incoming Lecturer in Robotics at the University of Western Australia (starting February 2026). I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the University of Technology Sydney (UTS), where I was supervised by [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
+I am an incoming Lecturer in Robotics at the University of Western Australia (starting February 2026). I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the University of Technology Sydney (UTS), where I was supervised by [Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [A/Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
 
 My research focuses on robotic perception, 3D scene understanding and reconstruction, SLAM and mapping, dynamic environment modelling, active perception, and robot manipulation and planning. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and millimetre-wave radar. A central theme in my work is the use of probabilistic and field-based representations to enable robust perception, mapping and control in complex, dynamic environments. Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
 
-I have published 1 *IEEE Transactions on Robotics (T-RO)* paper as first author, 6 papers in *IEEE Robotics and Automation Letters (RA-L)*. Multiple publications at *ICRA*, *IROS* and *ISRR*.
-
-In 2024, I was recognised as an **RSS Pioneer**, a distinction awarded to 30 early-career robotics researchers worldwide. I serve as a reviewer for T-RO, RA-L, JFR, ICRA and IROS, and as an Associate Editor for **ICRA 2025 and 2026** in the Localisation and Mapping session.
+- 1 paper in *IEEE Transactions on Robotics (T-RO)*  as first author
+- 6 papers in *IEEE Robotics and Automation Letters (RA-L)*
+- Multiple publications at *ICRA* and *IROS*
+- In 2024, I was recognised as an **RSS Pioneer**, a distinction awarded to 30 early-career robotics researchers worldwide
+- I serve as a reviewer for T-RO, RA-L, JFR, ICRA and IROS
+- I serve as Associate Editor for **ICRA 2025 and 2026** in the Localisation and Mapping session
 
 Research interests
 ------
@@ -28,7 +31,7 @@ Research interests
 - Multi-modal sensor fusion (LiDAR, cameras, sonar, millimetre-wave radar)  
 
 
-Selected key research outcomes (2020-2024)
+Selected key research outcomes (2020-2025)
 ======
 * **IDMP - Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration** <br />
 IEEE Robotics and Automation Letters 2024 <br />
@@ -55,7 +58,7 @@ Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni and Tere
 Please find our [paper](https://ieeexplore.ieee.org/abstract/document/8968326) and [video](https://www.youtube.com/watch?v=4T85RcNuijQ).
 <img width="800" src='/images/skeleton.png'>
 
-Selected robotic projects (2020-2022)
+Robotic Projects I Have Contributed To (2020–2025)
 ======
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
 I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches developed during my PhD, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
