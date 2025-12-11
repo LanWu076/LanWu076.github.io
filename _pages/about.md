@@ -65,7 +65,7 @@ Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni and Tere
 Please find our [paper](https://ieeexplore.ieee.org/abstract/document/8968326) and [video](https://www.youtube.com/watch?v=4T85RcNuijQ).
 <img width="800" src='/images/skeleton.png'>
 
-Robotic Projects I Have Contributed To (2020–2025)
+Robotic projects I have contributed to (2020–2025)
 ======
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
 I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches developed during my PhD, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
