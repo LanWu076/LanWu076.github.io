@@ -22,7 +22,7 @@ My research focuses on robotic perception, 3D scene understanding and reconstruc
 - I serve as Associate Editor for **ICRA 2025 and 2026** in the Localisation and Mapping session
 
 Research interests
-------
+======
 - Robotic perception and 3D scene understanding  
 - SLAM and 3D mapping (multi-view, multi-sensor)  
 - Dynamic environment modelling
