@@ -85,5 +85,5 @@ Contact
 
 **iriswu076@gmail.com**
 
-**If you are interested in pursuing a PhD with me, please email your CV, academic transcript, and a brief statement of your research interests.**
+**If you are interested in pursuing a PhD with me, please email your CV.**
 
