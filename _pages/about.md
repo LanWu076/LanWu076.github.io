@@ -10,9 +10,7 @@ redirect_from:
 
 About me
 ======
-My name is **Lan Wu**. I am an **incoming Lecturer (equivalent to Assistant Professor) in Robotics** at the **University of Western Australia (UWA)** (starting **February 2026**). I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the **University of Technology Sydney (UTS)**, where I was supervised by [Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [A/Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
-
-My research focuses on robotic perception, 3D scene understanding and reconstruction, SLAM and mapping, dynamic environment modelling, active perception, and robot manipulation and planning. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and millimetre-wave radar. A central theme in my work is the use of probabilistic and field-based representations to enable robust perception, mapping and control in complex, dynamic environments. Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
+My name is **Lan Wu**. I am an **incoming Lecturer in Robotics** (equivalent to Assistant Professor) at the **University of Western Australia (UWA)** (starting **February 2026**). I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the **University of Technology Sydney (UTS)**, where I was supervised by [Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [A/Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
 
 - **1 paper** in IEEE Transactions on Robotics (**T-RO**)  as first author
 - **6 papers** in IEEE Robotics and Automation Letters (**RA-L**)
@@ -23,6 +21,8 @@ My research focuses on robotic perception, 3D scene understanding and reconstruc
 
 Research interests
 ======
+My research focuses on robotic perception, 3D scene understanding and reconstruction, SLAM and mapping, dynamic environment modelling, active perception, and robot manipulation and planning. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and millimetre-wave radar. A central theme in my work is the use of probabilistic and field-based representations to enable robust perception, mapping and control in complex, dynamic environments. Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
+
 - Robotic perception and 3D scene understanding  
 - SLAM and 3D mapping (multi-view, multi-sensor)  
 - Dynamic environment modelling
