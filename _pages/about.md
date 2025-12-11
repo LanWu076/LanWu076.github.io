@@ -104,9 +104,15 @@ Key Publications (2020-2025)
 Robotic Projects I Have Contributed To (2020–2025)
 ======
 * **Autonomous Uncrewed Surface Vessel (USV) – Perception, Mapping, and Multi-modal Fusion** <br />
-In this defence-oriented autonomous marine project, I was responsible for the perception and mapping stack of an uncrewed landing craft / autonomous boat platform. My work focused on building a robust multi-modal perception system integrating LiDAR, sonar, radar, and cameras; developing 3D mapping and environment modelling for reliable situational awareness on water; and providing real-time scene understanding (obstacle detection, shoreline and infrastructure mapping, and environment reconstruction) to support downstream decision-making and planning. The perception–mapping pipeline was designed to operate under challenging marine conditions and formed the foundation for safe autonomous navigation.  
+In this defence-oriented autonomous marine project, I was responsible for the perception and mapping stack of an uncrewed landing craft / autonomous boat platform. My work focused on building a robust multi-modal perception system integrating LiDAR, sonar, and cameras; developing 3D mapping and environment modelling for reliable situational awareness on water; and providing real-time scene understanding (obstacle detection, shoreline and infrastructure mapping, and environment reconstruction) to support downstream decision-making and planning. The perception–mapping pipeline was designed to operate under challenging marine conditions and formed the foundation for safe autonomous navigation.  
 <img width="800" src='/images/boat1.png'>
 <img width="800" src='/images/boat2.png'>
+Source: [Navantia Australia](https://navantia.com.au) 
+
+* **Bionic Visual–Spatial Augmented Glasses for People Who Are Blind or Vision-Impaired** <br />
+Develop a bionic visual–spatial augmented glasses system designed to support blind and vision-impaired users in understanding their surrounding 3D environment. My work focused on building a real-time perception and representation pipeline capable of converting camera and imu information into intuitive spatial cues. Using probabilistic distance-field modelling and scene understanding techniques, the system provides users with spatially meaningful feedback (e.g., obstacle proximity, geometry of indoor environments), enabling safer and more confident navigation.  
+<img width="800" src='/images/glasses.png'>
+Source: [UTS Techlab](https://techlab.uts.edu.au/vision-via-sound/) 
 
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
 I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
