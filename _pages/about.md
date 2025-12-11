@@ -10,12 +10,23 @@ redirect_from:
 
 About me
 ======
-I received my PhD degree in robotics from the Robotics Institute (RI) at the University of Technology Sydney (UTS) under the supervision of [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Before my PhD, I gained extensive experience in the industry as an electronic engineer, mechatronic engineer and project leader, contributing to the development of numerous commercialised products. Since completing my PhD, I have been working as a Postdoctoral Research Fellow at RI, UTS.
+I am an incoming Lecturer in Robotics at the University of Western Australia (starting February 2026). I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the University of Technology Sydney (UTS), where I was supervised by [A/Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [Dr. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
 
-My research focuses on robotics perception, alternative sensing, efficient and effective mapping, robotics autonomy, and automatic navigation and manipulation, with applications in advanced manufacturing, meat and livestock production, and bionic visual-spatial medical devices for the blind.
+My research focuses on robotic perception, 3D scene understanding and reconstruction, SLAM and mapping, dynamic environment modelling, active perception, and robot manipulation and planning. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and millimetre-wave radar. A central theme in my work is the use of probabilistic and field-based representations to enable robust perception, mapping and control in complex, dynamic environments. Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
 
-**I'm thrilled to announce that the program committee has decided to accept me as a member of the 30-strong cohort of the RSS Pioneers Workshop 2024.** <br />
-**Looking forward to seeing you all in Delft, Netherlands, July 2024!** <br />
+I have published 1 *IEEE Transactions on Robotics (T-RO)* paper as first author, 6 papers in *IEEE Robotics and Automation Letters (RA-L)*. Multiple publications at *ICRA*, *IROS* and *ISRR*.
+
+In 2024, I was recognised as an **RSS Pioneer**, a distinction awarded to 30 early-career robotics researchers worldwide. I serve as a reviewer for T-RO, RA-L, JFR, ICRA and IROS, and as an Associate Editor for **ICRA 2025 and 2026** in the Localisation and Mapping session.
+
+Research interests
+------
+- Robotic perception and 3D scene understanding  
+- SLAM and 3D mapping (multi-view, multi-sensor)  
+- Dynamic environment modelling
+- Active perception and view planning  
+- Robotic manipulation and motion planning  
+- Multi-modal sensor fusion (LiDAR, cameras, sonar, millimetre-wave radar)  
+
 
 Selected key research outcomes (2020-2024)
 ======
@@ -55,7 +66,7 @@ I also contributed to UTS' next generation of fast-wheeled robots. During my stu
 <img width="800" src='/images/forv.png'>
 
 * **Simultaneous Localisation and Mapping for Locomotive No.1** <br />
-I had a precious opportunity to work with my colleagues to reconstruct the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with an IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
+I had a precious opportunity to work with my colleagues to measure the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with an IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
 <img width="800" src='/images/train.png'>
 
 Contact
