@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About Me
 ======
 My name is **Lan Wu**. I am an **incoming Lecturer in Robotics** (equivalent to Assistant Professor) at the **University of Western Australia (UWA)** (starting **February 2026**). 
 My research focuses on **probabilistic perception, mapping, and scene representations** to enable reliable and intelligent robot autonomy.
@@ -22,7 +22,7 @@ I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at
 - I serve as a reviewer for T-RO, RA-L, JFR, ICRA and IROS
 - I serve as **Associate Editor for ICRA 2025 and 2026** in the Localisation and Mapping session
 
-Research interests
+Research Interests
 ======
 My research focuses on robotic perception, 3D scene understanding and representation, SLAM and mapping, dynamic environment modelling, and active perception. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and radar.
 
@@ -38,7 +38,7 @@ Applications span advanced manufacturing, field robotics, human–robot collabor
 - Multi-modal sensor fusion (LiDAR, cameras, sonar, radar)  
 
 
-Key publications (2020-2025)
+Key Publications (2020-2025)
 ======
 * **[RA-L 2025] VDB-GPDF: Online Gaussian Process Distance Field with VDB Structure**
 
@@ -101,10 +101,10 @@ Key publications (2020-2025)
 
   <img width="800" src='/images/skeleton.png'>
 
-Robotic projects I have contributed to (2020–2025)
+Robotic Projects I Have Contributed To (2020–2025)
 ======
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
-I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches developed during my PhD, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
+I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
 <img width="800" src='/images/OTE.png'>
 
 * **Multi-sensor Perception, Calibration and Synchronisation for a Fast Off-road Vehicle** <br />
@@ -112,7 +112,7 @@ I also contributed to UTS' next generation of fast-wheeled robots. During my stu
 <img width="800" src='/images/forv.png'>
 
 * **Simultaneous Localisation and Mapping for Locomotive No.1** <br />
-I had a precious opportunity to work with my colleagues to measure the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with an IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
+I had the opportunity to work with my colleagues to measure the digital representation of the historical train [Locomotive No. 1](https://www.maas.museum/event/locomotive-no-1/) in the [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/). The datasets were collected by LiDAR sensor and RGB-D camera along with an IMU sensor. We operated the sensors around the train to have high-quality observations and then utilise various SLAM frameworks to produce an accurate surface of the train. Moreover, I generated the colored point cloud of the full train using RGB information for LiDAR measurements.
 <img width="800" src='/images/train.png'>
 
 
