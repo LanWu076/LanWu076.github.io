@@ -103,6 +103,11 @@ Key Publications (2020-2025)
 
 Robotic Projects I Have Contributed To (2020–2025)
 ======
+* **Autonomous Uncrewed Surface Vessel (USV) – Perception, Mapping, and Multi-modal Fusion** <br />
+In this defence-oriented autonomous marine project, I was responsible for the perception and mapping stack of an uncrewed landing craft / autonomous boat platform. My work focused on building a robust multi-modal perception system integrating LiDAR, sonar, radar, and cameras; developing 3D mapping and environment modelling for reliable situational awareness on water; and providing real-time scene understanding (obstacle detection, shoreline and infrastructure mapping, and environment reconstruction) to support downstream decision-making and planning. The perception–mapping pipeline was designed to operate under challenging marine conditions and formed the foundation for safe autonomous navigation.  
+<img width="800" src='/images/boat1.png'>
+<img width="800" src='/images/boat2.png'>
+
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
 I applied my research outcomes in the meat and livestock project for trait estimation, funded by the Australian Government Department of Agriculture&Water Resources as part of its Rural R&D for Profit programme, Meat and Livestock Australia under the Grant V.RDP.2005. By using the probabilistic mapping approaches, my main objective was to convert and process noisy and incomplete point clouds and depth images of non-rigid livestock and rigid carcass into 3D meshes for further processing.
 <img width="800" src='/images/OTE.png'>
@@ -121,5 +126,5 @@ Contact
 
 **iriswu076@gmail.com**
 
-**If you are interested in pursuing a PhD with me, please email your CV.**
+**If you are interested in pursuing a PhD with me, please send your CV and a brief statement of your research interests :)**
 
