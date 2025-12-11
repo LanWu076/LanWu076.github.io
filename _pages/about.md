@@ -38,7 +38,7 @@ Applications span advanced manufacturing, field robotics, human–robot collabor
 - Multi-modal sensor fusion (LiDAR, cameras, sonar, radar)  
 
 
-Selected key research outcomes (2020-2025)
+Key publications (2020-2025)
 ======
 
 
