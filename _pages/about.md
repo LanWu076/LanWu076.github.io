@@ -14,12 +14,12 @@ I am an incoming Lecturer in Robotics at the University of Western Australia (st
 
 My research focuses on robotic perception, 3D scene understanding and reconstruction, SLAM and mapping, dynamic environment modelling, active perception, and robot manipulation and planning. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and millimetre-wave radar. A central theme in my work is the use of probabilistic and field-based representations to enable robust perception, mapping and control in complex, dynamic environments. Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
 
-- 1 paper in *IEEE Transactions on Robotics (T-RO)*  as first author
-- 6 papers in *IEEE Robotics and Automation Letters (RA-L)*
-- Multiple publications at *ICRA* and *IROS*
-- In 2024, I was recognised as an **RSS Pioneer**, a distinction awarded to 30 early-career robotics researchers worldwide
+- 1 paper in IEEE Transactions on Robotics (**T-RO**)  as first author
+- 6 papers in IEEE Robotics and Automation Letters (**RA-L**)
+- Multiple publications at **ICRA** and **IROS**
+- In 2024, I was recognised as an [RSS Pioneer](https://sites.google.com/view/rsspioneers2024/participants?authuser=0), a distinction awarded to 30 early-career robotics researchers worldwide
 - I serve as a reviewer for T-RO, RA-L, JFR, ICRA and IROS
-- I serve as Associate Editor for **ICRA 2025 and 2026** in the Localisation and Mapping session
+- I serve as **Associate Editor for ICRA 2025 and 2026** in the Localisation and Mapping session
 
 Research interests
 ======
