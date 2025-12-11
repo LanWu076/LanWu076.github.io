@@ -119,7 +119,7 @@ I applied my research outcomes in the meat and livestock project for trait estim
 <img width="800" src='/images/OTE.png'>
 
 * **Multi-sensor Perception, Calibration and Synchronisation for a Fast Off-road Vehicle** <br />
-I also contributed to UTS' next generation of fast-wheeled robots. During my studies, UTS built FORV, a Fast Off-Road Vehicle for Defence Applications and I was responsible for establishing the multi-sensor fusion platform for mapping and navigation. Calibrating and working across several visual sensors including a binocular camera, a 3D LiDAR and an inertial measurement unit, we managed to have a data collection and synchronisation system based on NVIDIA Jetson and ROS.
+UTS' next generation of fast-wheeled robots. UTS built FORV, a Fast Off-Road Vehicle for Defence Applications and I was responsible for establishing the multi-sensor fusion platform for mapping and navigation. Calibrating and working across several visual sensors including a binocular camera, a 3D LiDAR and an inertial measurement unit, we managed to have a data collection and synchronisation system based on NVIDIA Jetson and ROS.
 <img width="800" src='/images/forv.png'>
 
 * **Simultaneous Localisation and Mapping for Locomotive No.1** <br />
@@ -132,5 +132,5 @@ Contact
 
 **iriswu076@gmail.com**
 
-**If you are interested in pursuing a PhD with me, please send your CV and a brief statement of your research interests :)**
+**If you’d like to join my group as a PhD, Master by Research student, CSC scholar, or intern, feel free to email your CV and a short statement of your research interests :)**
 
