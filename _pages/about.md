@@ -44,7 +44,11 @@ Selected key research outcomes (2020-2025)
 IEEE Robotics and Automation Letters 2024 <br />
 Usama Ali\*, Lan Wu\*, Adrian Muller, Fouad Sukkar, Tobias Kaupp and Teresa Vidal-Calleja <br />
 \* These authors are co-first authors and contributed equally to this work.  <br />
-Please find our paper and code here: [paper and code](https://uts-ri.github.io/IDMP).
+[arXiv](https://arxiv.org/abs/2403.09988) | 
+[Paper](https://ieeexplore.ieee.org/document/10720114) | 
+[Video](https://uts-ri.github.io/IDMP/) | 
+[Code](https://github.com/UTS-RI/IDMP)
+
 <img width="800" src='/images/IDMP.png'>
 
 * **Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
