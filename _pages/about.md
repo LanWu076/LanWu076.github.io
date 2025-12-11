@@ -101,19 +101,6 @@ Key publications (2020-2025)
 
   <img width="800" src='/images/skeleton.png'>
 
-
-* **[RA-L 2021]Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
-IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 2461–2468, 2021 <br />
-Lan Wu, Ki Myung Brian Lee, Liyang Liu and Teresa Vidal-Calleja <br />
-Please find our [paper](https://arxiv.org/pdf/2010.11487.pdf) and [video](https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s). 
-<img width="800" src='/images/LogGPIS.png'>
-
-* **[RA-L 2020]Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction** <br />
-IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1532–1539, 2020 <br />
-Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni and Teresa Vidal-Calleja <br />
-Please find our [paper](https://ieeexplore.ieee.org/abstract/document/8968326) and [video](https://www.youtube.com/watch?v=4T85RcNuijQ).
-<img width="800" src='/images/skeleton.png'>
-
 Robotic projects I have contributed to (2020–2025)
 ======
 * **Surface Reconstruction for the Meat and Livestock Project** <br />
