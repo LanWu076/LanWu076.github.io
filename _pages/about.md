@@ -15,7 +15,7 @@ My research focuses on **probabilistic perception, mapping, and scene representa
 
 I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the **University of Technology Sydney (UTS)**, where I was supervised by [Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [A/Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
 
-- **1 paper** in IEEE Transactions on Robotics (**T-RO**)  as first author
+- **1 paper** in IEEE Transactions on Robotics (**T-RO**), first author
 - **6 papers** in IEEE Robotics and Automation Letters (**RA-L**)
 - Multiple publications at **ICRA** and **IROS**
 - In 2024, I was recognised as an [RSS Pioneer](https://sites.google.com/view/rsspioneers2024/participants?authuser=0), a distinction awarded to early-career robotics researchers worldwide
@@ -28,7 +28,7 @@ My research focuses on robotic perception, 3D scene understanding and representa
 
 Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
 
-**My long-term goal is to develop model-based, learning-based, or combined model- and learning-based representations that tightly couple scene understanding and decision-making, enabling robots to operate reliably and intelligently in complex real-world environments.**
+**My long-term goal is to develop model-based, learning-based, or combined model- and learning-based representations that unify scene understanding and decision-making, enabling robots to operate reliably and intelligently in complex real-world environments.**
 
 - Robotic perception and 3D scene understanding  
 - SLAM and 3D mapping  
