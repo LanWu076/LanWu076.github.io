@@ -40,6 +40,18 @@ Applications span advanced manufacturing, field robotics, human–robot collabor
 
 Key publications (2020-2025)
 ======
+* **[RA-L 2025] VDB-GPDF: Online Gaussian Process Distance Field with VDB Structure**
+
+  **Venue:** IEEE Robotics and Automation Letters (RA-L), vol. 10, no. 1, pp. 374–381, 2025  
+  **Authors:** Lan Wu, Cedric Le Gentil, Teresa Vidal-Calleja  
+
+  [arXiv](https://arxiv.org/abs/2407.09649) |
+  [Paper](https://ieeexplore.ieee.org/document/10766672) |
+  [Video](https://www.youtube.com/watch?v=xygIuZBvQT8) |
+  [Code](https://github.com/UTS-RI/VDB_GPDF)
+
+  <img width="800" src='/images/VDB_GPDF1.png'>
+  <img width="800" src='/images/VDB_GPDF2.png'>
 
 
 * **[RA-L 2024] IDMP: Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**
@@ -56,11 +68,39 @@ Key publications (2020-2025)
   <img width="800" src='/images/IDMP.png'>
 
 
-* **[T-RO 2023]Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning** <br />
-IEEE Transactions on Robotics, vol. 39, pp. 4078-4094, October 2023 <br />
-Lan Wu, Ki Myung Brian Lee, Cedric Le Gentil and Teresa Vidal-Calleja <br />
-Please find our paper here: [paper](https://arxiv.org/pdf/2206.09506.pdf) and [video](https://www.youtube.com/watch?v=rKdH5Hjkdec)
-<img width="800" src='/images/LogGPISMop.png'>
+* **[T-RO 2023] Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**
+
+  **Venue:** IEEE Transactions on Robotics (T-RO), vol. 39, pp. 4078–4094, 2023  
+  **Authors:** Lan Wu, Ki Myung Brian Lee, Cedric Le Gentil, Teresa Vidal-Calleja  
+
+  [arXiv](https://arxiv.org/abs/2206.09506) | 
+  [Paper](https://ieeexplore.ieee.org/document/10202666) | 
+  [Video](https://www.youtube.com/watch?v=rKdH5Hjkdec)
+
+  <img width="800" src='/images/LogGPISMop.png'>
+  
+* **[RA-L 2021] Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces**
+
+  **Venue:** IEEE Robotics and Automation Letters (RA-L), vol. 6, no. 2, pp. 2461–2468, 2021  
+  **Authors:** Lan Wu, Ki Myung Brian Lee, Liyang Liu, Teresa Vidal-Calleja
+
+  [arXiv](https://arxiv.org/abs/2010.11487) | 
+  [Paper](https://ieeexplore.ieee.org/document/9361242) | 
+  [Video](https://www.youtube.com/watch?v=mypDDuTcrTA&t=574s) | 
+  [Code](https://github.com/LanWu076/Log-GPIS-demo)
+
+  <img width="800" src='/images/LogGPIS.png'>
+
+* **[RA-L 2020] Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction**
+
+  **Venue:** IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 2, pp. 1532–1539, 2020  
+  **Authors:** Lan Wu, Raphael Falque, Victor Perez-Puchalt, Liyang Liu, Nico Pietroni, Teresa Vidal-Calleja  
+  
+  [Paper](https://ieeexplore.ieee.org/document/8968326) |
+  [Video](https://www.youtube.com/watch?v=4T85RcNuijQ)
+
+  <img width="800" src='/images/skeleton.png'>
+
 
 * **[RA-L 2021]Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces** <br />
 IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 2461–2468, 2021 <br />
