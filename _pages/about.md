@@ -24,18 +24,18 @@ I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at
 
 Research interests
 ======
-My research focuses on robotic perception, 3D scene understanding and reconstruction, SLAM and mapping, dynamic environment modelling, active perception, and robot manipulation and planning. 
-
-I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and millimetre-wave radar. A central theme in my work is the use of probabilistic and field-based representations to enable robust perception, mapping and control in complex, dynamic environments. 
+My research focuses on robotic perception, 3D scene understanding and representation, SLAM and mapping, dynamic environment modelling, and active perception. I also work with alternative and multi-modal sensing, including LiDAR, RGB-D, sonar and radar.
 
 Applications span advanced manufacturing, field robotics, human–robot collaboration, and assistive technologies such as bionic visual–spatial devices for people who are blind or vision-impaired.
 
+**My long-term goal is to develop model-based, learning-based, or combined model- and learning-based representations that tightly couple scene understanding and decision-making, enabling robots to operate reliably and intelligently in complex real-world environments.**
+
 - Robotic perception and 3D scene understanding  
-- SLAM and 3D mapping (multi-view, multi-sensor)  
+- SLAM and 3D mapping  
 - Dynamic environment modelling
 - Active perception and view planning  
 - Robotic manipulation and motion planning  
-- Multi-modal sensor fusion (LiDAR, cameras, sonar, millimetre-wave radar)  
+- Multi-modal sensor fusion (LiDAR, cameras, sonar, radar)  
 
 
 Selected key research outcomes (2020-2025)
