@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 My name is **Lan Wu**. I am an **incoming Lecturer in Robotics** (equivalent to Assistant Professor) at the **University of Western Australia (UWA)** (starting **February 2026**). 
-My research focuses on **probabilistic perception**, **mapping**, and **scene representations** to enable reliable and intelligent robot autonomy.
+My research focuses on **probabilistic perception, mapping, and scene representations** to enable reliable and intelligent robot autonomy.
 
 I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the **University of Technology Sydney (UTS)**, where I was supervised by [Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [A/Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
 
