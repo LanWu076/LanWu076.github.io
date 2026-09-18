@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-My name is **Lan Wu**. I am an **incoming Lecturer in Robotics** (equivalent to Assistant Professor in the US) at the **University of Western Australia (UWA)** (starting **February 2026**). 
+My name is **Lan Wu**. I am a **Lecturer in Robotics and Automation** (equivalent to Assistant Professor in the US) at the **University of Western Australia (UWA)**. 
 My research focuses on **robotic probabilistic perception, mapping, scene understanding and representations** to enable reliable and intelligent robot autonomy.
 
 I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at the **University of Technology Sydney (UTS)**, where I was supervised by [Prof. Teresa Vidal-Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) and [A/Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic). Since completing my PhD, I have been working as a Postdoctoral Research Fellow at the UTS Robotics Institute.
@@ -104,9 +104,7 @@ Key Publications (2020-2025)
 Robotic Projects I Have Contributed To (2020–2025)
 ======
 * **Autonomous Uncrewed Surface Vessel (USV) – Perception, Mapping, and Multi-modal Fusion** <br />
-In this defence-oriented autonomous marine project, I was responsible for the perception and mapping stack of an uncrewed landing craft / autonomous boat platform. My work focused on building a robust multi-modal perception system integrating LiDAR, sonar, and cameras; developing 3D mapping and environment modelling for reliable situational awareness on water; and providing real-time scene understanding (obstacle detection, shoreline and infrastructure mapping, and environment reconstruction) to support downstream decision-making and planning. The perception–mapping pipeline was designed to operate under challenging marine conditions and formed the foundation for safe autonomous navigation.  
-<img width="800" src='/images/boat1.png'>
-<img width="800" src='/images/boat2.png'>
+In this defence-oriented autonomous marine project, I was responsible for the perception and mapping stack of an uncrewed landing craft / autonomous boat platform. My work focused on building a robust multi-modal perception system integrating LiDAR, sonar, and cameras; developing 3D mapping and environment modelling for reliable situational awareness on water; and providing real-time scene understanding (obstacle detection, shoreline and infrastructure mapping, and environment reconstruction) to support downstream decision-making and planning. The perception–mapping pipeline was designed to operate under challenging marine conditions and formed the foundation for safe autonomous navigation.
 Source: [Navantia Australia](https://navantia.com.au) 
 
 * **Bionic Visual–Spatial Augmented Glasses for People Who Are Blind or Vision-Impaired** <br />
