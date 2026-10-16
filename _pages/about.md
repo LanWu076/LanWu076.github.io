@@ -20,7 +20,9 @@ I received my PhD degree in robotics in 2023 from the Robotics Institute (RI) at
 - Multiple publications at **ICRA** and **IROS**
 - In 2024, I was recognised as an [RSS Pioneer](https://sites.google.com/view/rsspioneers2024/participants?authuser=0), a distinction awarded to early-career robotics researchers worldwide
 - I serve as a reviewer for T-RO, RA-L, JFR, ICRA and IROS
-- I serve as **Associate Editor for ICRA 2025 and 2026** in the Localisation and Mapping session
+- **Associate Editor**, ICRA 2025 and 2026, Localisation and Mapping
+- **Associate Editor**, IEEE Robotics and Automation Letters (**RA-L**), Localisation and Mapping
+- **Area Chair**, Robotics: Science and Systems (**RSS 2027**)
 
 Research Interests
 ======
